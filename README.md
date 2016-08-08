@@ -8,3 +8,4 @@ We offer solutions to automate restocking and repricing
 
 Lorem Ipsum Dolor
 
+Tejasav Thind- Scripter.
